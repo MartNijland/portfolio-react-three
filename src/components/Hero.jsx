@@ -32,8 +32,8 @@ function Hero() {
     <Section>
       <Navbar />
       <Container>
-        <Left>Test</Left>
-        <Right>Test</Right>
+        <Left>Dit is een test</Left>
+        <Right>Dit is een test</Right>
       </Container>
     </Section>
   )
