@@ -1,3 +1,3 @@
-# react-mini
+#Building a Portforlio with React and R3F
 
-install the package and run yarn.
+
