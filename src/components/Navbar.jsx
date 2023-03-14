@@ -28,7 +28,7 @@ const Icon = styled.img`
     cursor: pointer;
 `
 const Logo = styled.p`
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 600;
 `
 const List = styled.ul`
@@ -46,6 +46,7 @@ const Button = styled.button`
     border-radius: 5px;
     color: white;
     background: #aa4ab5;
+    cursor: pointer;
 `
 
 const Navbar = () => {
